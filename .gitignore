@@ -5,3 +5,5 @@
 /logs
 /temp
 /cache
+
+node_modules
